@@ -1,4 +1,8 @@
 # Learning Structural Topic Modeling
+
+
+Asko daukat ikasteko
+
 This is a repository set up as my personal exercise for learning structural topic modeling, a method utilising machine learning techniques for automated content analysis of textual data. It can also be used as a tutorial for someone interested in learning structural topic modeling for their research projects.
 
 ## Table of Contents
